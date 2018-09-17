@@ -11,7 +11,6 @@
 
     <dt><xsl:value-of select="CONCEPT"/></dt>
 
-
 <dd><xsl:value-of select="DEFINITION" disable-output-escaping="yes" /></dd>
 
 </xsl:for-each>
