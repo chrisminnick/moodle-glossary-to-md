@@ -1,5 +1,6 @@
 
-# Holochain Glossary<dl>
+# Holochain Glossary
+<dl>
    <dt>Absolutism</dt>
    <dd>&lt;p&gt;A view which says there is ONE absolute frame of reference or view of reality. For example, global ledger consensus systems assert the state of the ledger is the one authoritative absolute truth of the system.&lt;/p&gt;</dd>
    <dt>Agent</dt>
